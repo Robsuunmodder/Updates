@@ -1,6 +1,6 @@
 {
-    "latestVersion": "2.0",
-    "latestVersionCode": 2,
-    "url": "https://raw.githubusercontent.com/Robsuunmodder/Updates/main/stopwatch_rd.apk",
-    "releaseNotes": "teste"
+    "latestVersion": "3.0",
+    "latestVersionCode": 3,
+    "url": "https://raw.githubusercontent.com/Robsuunmodder/Updates/main/Stopwatch_3.0.apk",
+    "releaseNotes": "• Adicionadas novas funções para texto flutuante.\n• Incluídas novas fontes.\n• Adicionadas novas opções de cor para o texto do cronômetro. Agora é possível alterar as cores para pausa e reset.\n• Inseridas novas informações.\n• Corrigidos bugs e otimizado o desempenho."
 }
