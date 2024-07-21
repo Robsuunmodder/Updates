@@ -1,6 +1,6 @@
 {
-    "latestVersion": "3.0",
-    "latestVersionCode": 6,
-    "url": "https://raw.githubusercontent.com/Robsuunmodder/Updates/main/Stopwatch_3.0_6.apk",
-    "releaseNotes": "• Adicionadas novas funções para texto flutuante.\n• Incluídas novas fontes.\n• Adicionadas novas opções de cor para o texto do cronômetro. Agora é possível alterar as cores para pausa e reset.\n• Inseridas novas informações.\n• Corrigidos bugs e otimizado o desempenho."
+    "latestVersion": "4.0",
+    "latestVersionCode": 7,
+    "url": "https://raw.githubusercontent.com/Robsuunmodder/Updates/main/Stopwatch_4.0.apk",
+    "releaseNotes": "• Adição da função de exibir teclas.\n• nova função de Remapeamento das teclas SETAS para WASD.\n• Inseridas novas informações.\n• Corrigidos bugs e otimizado o desempenho."
 }
